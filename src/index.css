@@ -1,0 +1,14 @@
+@font-face {
+  font-family: prompt;
+  src: url(/src/font/Prompt.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: prompt;
+  background-color: #F3F4F6;
+}
+
+code {
+  font-family: prompt
+}
