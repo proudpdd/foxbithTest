@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
   textField: {
     marginLeft: theme.spacing(1),
     marginRight: theme.spacing(1),
-    width: "78ch",
+    width: "105ch",
     margin: "12px 0px",
     "& input:valid + fieldset": {
       borderWidth: 1,
